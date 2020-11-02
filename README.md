@@ -1,15 +1,20 @@
-<h1 align="center">Hi 👋, I'm Dan</h1>
-<h3 align="center">I'm a Cyber Security & Digital Forensics Student at the University of Portsmouth</h3>
+<h1 align="center">Hi 👋 I'm Dan.</h1>
+<h3 align="center">I'm a Cyber Security & Digital Forensics Student at the University of Portsmouth.</h3>
 
-- 🔭 I’m currently working on [Scry, a network intrusion suite.](https://github.com/0xpink/Scry)
+- 🔭 I’m currently working on [Scry, a network intrusion suite](https://github.com/0xpink/Scry) (private due to being in early stages of development).
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/0xpink" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="0xpink" height="30" width="40" /></a>
+
+### My recent activity
+
+<!-- GITHUB_ACTIVITY:{"rows": 10} -->
+
+<p align="center">
+  Last refresh:
+  <b><!-- TIMESTAMP --></b>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
