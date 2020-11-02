@@ -12,7 +12,7 @@
 
 <!-- GITHUB_ACTIVITY:{"rows": 10} -->
 
-<p align="center">
+<p align="left">
   Last refresh:
   <b><!-- TIMESTAMP --></b>
 </p>
