@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Dan.</h1>
 <h3 align="center">I'm a Cyber Security & Digital Forensics Student at the University of Portsmouth.</h3>
 
-- 🔭 I’m currently working on [Scry, a network intrusion suite](https://github.com/0xpink/Scry) (private due to being in early stages of development).
+🔭 I’m currently working on [Scry, a network intrusion suite](https://github.com/0xpink/Scry) (private due to being in early stages of development).
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
